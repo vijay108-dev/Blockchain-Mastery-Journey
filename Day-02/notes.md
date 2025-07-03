@@ -17,7 +17,7 @@ aaa aa
 ## Bitcoin Example: Sohan → Mohan Transaction
 
 ### Scenario:
-- 🧍‍♂️ Sohan wants to send **5 BTC** to 🧍‍♂️ Mohan.
+-  Sohan wants to send **5 BTC** to  Mohan.
 
 ### Without Blockchain (Bank Model):
 1. Sohan sends ₹5.
