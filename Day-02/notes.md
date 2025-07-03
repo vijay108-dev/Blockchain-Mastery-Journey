@@ -13,6 +13,8 @@
 
 ---
 
+aaa
+
 ## Bitcoin Example: Sohan → Mohan Transaction
 
 ### Scenario:
@@ -78,3 +80,4 @@ Each block contains:
 
 ---
 
+# Day-02: Blockchain Notes
