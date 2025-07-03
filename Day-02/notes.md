@@ -12,8 +12,7 @@
 - Multiple authorities (universities, government) maintain the same **public ledger**.
 
 ---
-
-aaa
+aaa aa
 
 ## Bitcoin Example: Sohan → Mohan Transaction
 
@@ -37,6 +36,7 @@ aaa
 > **Blockchain = Decentralized digital public ledger**
 
 ---
+
 
 ## Internal Working of Blockchain
 
@@ -80,4 +80,3 @@ Each block contains:
 
 ---
 
-# Day-02: Blockchain Notes
