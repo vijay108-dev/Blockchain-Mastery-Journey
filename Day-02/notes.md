@@ -12,7 +12,6 @@
 - Multiple authorities (universities, government) maintain the same **public ledger**.
 
 ---
-aaa aa
 
 ## Bitcoin Example: Sohan → Mohan Transaction
 
