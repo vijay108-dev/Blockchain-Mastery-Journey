@@ -32,7 +32,7 @@ Socho aapke paas ₹500 ka note hai:
 
 ---
 
-## 🌳 Merkle Root
+## Merkle Root
 
 **Definition**:
 Merkle Root ek unique hash hoti hai jo ek block ke andar ke sabhi transactions ko represent karti hai.
@@ -66,7 +66,7 @@ Merkle Root = Hash(Hash AB + Hash CD)
 
 Ye Merkle Root block header me store hoti hai.
 
-### 💡 Real-Life Example:
+### Real-Life Example:
 
 Soch ki tu ek book likh raha hai jisme 100 pages hain:
 
@@ -76,7 +76,7 @@ Soch ki tu ek book likh raha hai jisme 100 pages hain:
 
 ---
 
-## ✅ Merkle Root Ke Fayde:
+##  Merkle Root Ke Fayde:
 
 1. **Quick Verification**: Pura block check kiye bina bhi kisi transaction ko verify kar sakte hain.
 2. **Lightweight Clients (SPV)**: Bina pura blockchain download kiye kaam karta hai.
@@ -84,7 +84,7 @@ Soch ki tu ek book likh raha hai jisme 100 pages hain:
 
 ---
 
-## 🔚 Summary
+## Summary
 
 | Concept             | Role in Blockchain                                          |
 | ------------------- | ----------------------------------------------------------- |
