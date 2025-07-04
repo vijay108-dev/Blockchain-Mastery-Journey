@@ -37,7 +37,7 @@ Socho aapke paas ₹500 ka note hai:
 **Definition**:
 Merkle Root ek unique hash hoti hai jo ek block ke andar ke sabhi transactions ko represent karti hai.
 
-### 🔍 How it Works (Merkle Tree):
+### How it Works (Merkle Tree):
 
 Har block ke andar kai transactions hote hain:
 
