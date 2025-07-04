@@ -36,7 +36,6 @@
 
 ---
 
-
 ## Internal Working of Blockchain
 
 ### 1. Client-Server vs Blockchain Architecture
