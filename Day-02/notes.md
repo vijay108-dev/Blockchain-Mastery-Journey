@@ -60,6 +60,7 @@ Each block contains:
 
 ---
 
+
 ### 3. Hashing and Validation
 
 - Each block is hashed using SHA-256.
