@@ -1,6 +1,6 @@
 # Blockchain Concepts: Double Spending Problem & Merkle Root
 
-## 🔀 Double Spending Problem
+## Double Spending Problem
 
 **Definition**:
 Double spending ka matlab hota hai ek hi digital currency (jaise Bitcoin) ko do jagah use karna, yaani usi paise se 2 baar transaction kar dena.
