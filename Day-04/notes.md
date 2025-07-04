@@ -5,19 +5,19 @@
 **Definition**:
 Double spending ka matlab hota hai ek hi digital currency (jaise Bitcoin) ko do jagah use karna, yaani usi paise se 2 baar transaction kar dena.
 
-### 💡 Real-Life Analogy:
+### example:
 
-Soch, tere paas ₹500 ka note hai:
+Socho aapke paas ₹500 ka note hai:
 
-* Tu ek dukan se shoes kharidta hai ₹500 me.
-* Fir same ₹500 ka note ka photocopy nikaal ke dusri dukan se phone bhi kharidne ki koshish karta hai.
+* aap ek dukan se shoes kharidta ho ₹500 me.
+* Fir same ₹500 ka note ka photocopy nikaal ke dusri dukan se phone bhi kharidne ki koshish karte ho.
 
 **Note**:
 
 * Real world me note physical hai, to duplicate karna mushkil hai.
 * Par digital world me file copy karna asaan hai — isi wajah se digital money me double spending ka risk hota hai.
 
-### 🔒 Blockchain Double Spending Ko Kaise Rokta Hai?
+### Blockchain Double Spending Ko Kaise Rokta Hai?
 
 1. **Transaction Validation**:
 
