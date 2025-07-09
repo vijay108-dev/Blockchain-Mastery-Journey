@@ -1,6 +1,6 @@
 ## Day-01: Introduction to Blockchain
 
-### 📖 Topics Covered:
+### Topics Covered:
 - What is Blockchain?
 - Why is it called "Blockchain"?
 - Centralized vs Decentralized Systems
@@ -8,7 +8,7 @@
 - Immutable Ledger Concept
 - Example: Google Docs vs Word File
 
-### 📄 Lecture Notes:
+### Lecture Notes:
 - [Download Day-01 Notes (PDF)](Day-01/Day-01-Blockchain-Intro.pdf)
 
 ### Key Takeaways:
